@@ -12,8 +12,6 @@ public class Main {
         int getal;
 
 
-
-
         do {
             System.out.println("Geef een getal");
             getal = Integer.parseInt(invoer.nextLine());
